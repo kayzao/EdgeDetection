@@ -1,0 +1,32 @@
+LAYOUT,VERTICAL
+
+TYPE,NOTE,intro
+intro,LABEL,Edge Detection
+
+TYPE,DROPDOWN,file
+file,LABEL,FILES 
+file,OPTION,h,house,selected
+file,OPTION,c,car
+file,OPTION,b,butterfly
+
+TYPE,BUTTON,load
+load,LABEL,Load
+
+TYPE,RANGE,threshold
+threshold,LABEL,Threshold
+threshold,MIN,0
+threshold,MAX,255
+threshold,STEP,1
+threshold,VALUE,35
+
+TYPE,BUTTON,horizontal
+horizontal,LABEL,Horizontal edges
+
+TYPE,BUTTON,vertical
+vertical,LABEL,Vertical edges
+
+TYPE,BUTTON,omni
+omni,LABEL,Omni-directional
+
+TYPE,CHECKBOX,camera
+camera,LABEL,Show camera?
