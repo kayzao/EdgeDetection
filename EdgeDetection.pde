@@ -1,3 +1,4 @@
+//EDGE DETECTION: A REALLY BASIC ALGORITHM USING PROCESSING 3
 import processing.video.*;
 
 int threshold;
