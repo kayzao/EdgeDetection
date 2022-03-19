@@ -1,2 +1,2 @@
 # EdgeDetection
-really, really basic edge detection using Processing 3
+Basic edge detection using Processing 3
